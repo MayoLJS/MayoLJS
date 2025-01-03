@@ -8,19 +8,6 @@
 - 💹 Proficient in a wide range of data analytics tools, I excel at data collection, cleansing, processing, analysis, and visualization to support business projections, market analysis, product growth strategies, and the execution of data-driven marketing plans. My insights empower management and stakeholders to make informed decisions.
 - 🌱 I am also exploring advanced machine learning algorithms to enhance predictive modeling and business forecasting.
 
------
-### Connect with me : 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/osimosu/
-
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) https://twitter.com/_mayowa
-
-### Reach me at :
-![Yahoo](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)  mayowaosimosu@yahoo.com
-
-
-
-
-
 ---
 ### I am proficient in the following skills
   
