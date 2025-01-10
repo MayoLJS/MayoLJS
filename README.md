@@ -6,7 +6,7 @@
 
 - 📊 I am a Data Analyst with expertise in analyzing data for over 6 years. 
 - 💹 Proficient in a wide range of data analytics tools, I excel at data collection, cleansing, processing, analysis, and visualization to support business projections, market analysis, product growth strategies, and the execution of data-driven marketing plans. My insights empower management and stakeholders to make informed decisions.
-- 🌱 I am also exploring advanced machine learning algorithms to enhance predictive modeling and business forecasting.
+- 🌱 I am also exploring advanced machine learning algorithms to enhance predictive modeling and business forecasting alongside streamlit for web development.
 
 ---
 ### I am proficient in the following skills
@@ -26,6 +26,7 @@
 - Google sheets
 - Microsoft Fabric
 - Data Science with Python(Basics)
+- Streamlit Library
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayoLJS&layout=compact)](https://github.com/MayoLJS)
